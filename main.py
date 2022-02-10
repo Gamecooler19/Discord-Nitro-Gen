@@ -113,7 +113,7 @@ class LinkGen:
 [{self.HEADER}+{self.ENDC}] Just make sure to not close the application{self.ENDC}
 [{self.HEADER}+{self.ENDC}] That being said, enjoy :){self.ENDC}
 
-[{self.HEADER}+{self.ENDC}] For any questions hit me up on Discord Gamecooler19#3016 Or Join This Server https://discord.gg/nfGVPVCNzH{self.ENDC}
+[{self.HEADER}+{self.ENDC}] For any questions hit me up on Discord Gamecooler19#3016 Or Join This Server https://discord.gg/Rsg2AsjqKx{self.ENDC}
         ''')
 
 LinkGen()
